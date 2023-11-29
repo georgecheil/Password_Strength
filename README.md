@@ -1,5 +1,4 @@
 # Password_Strength
-Certainly! Let's break down the code more thoroughly, section by section, to provide a detailed explanation.
 
 ### Importing Libraries
 
